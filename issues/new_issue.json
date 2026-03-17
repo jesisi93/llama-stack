@@ -1,1 +1,13 @@
 { "title": ":\RedMagic-Boost-1" }
+
+C:\RedMagic-Boost-1
+
+git init
+git add .
+git commit -m "Game booster v1.0 - RedMagic style"
+git remote add origin https://github.com/tuusuario/RedMagic-Boost-1.git
+git push -u origin main
+https://vscode-412439c1-5468-4d6b-b94b-2d961a829ce9.preview.emergentagent.com/
+npm install
+expo start
+
